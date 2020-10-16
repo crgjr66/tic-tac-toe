@@ -52,6 +52,6 @@ button{
 
 .animate{
   color: black;
-  opacity: 100%;
+  /* opacity: 100%; */
   animation: fadein 2s;
 }
