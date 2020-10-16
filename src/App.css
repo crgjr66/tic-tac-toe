@@ -2,7 +2,7 @@ body{
   margin: 1em;
   text-align: center;
   /* background-color:  #446161 */
-  background-color: #363636
+  background-color: #e4ebb5
 }
 
 #square{
@@ -15,12 +15,12 @@ body{
   font-size: 75px;
   transition-duration: 0.7s;
   font-family: bold;
-  background-color: rgb(96,134,117);
+  background-color: #acb570;
 }
 
 
 #square:hover{
-  background-color: #adefd1ff;
+  background-color: #e9edce;
 }
 
 #gameBoard{
